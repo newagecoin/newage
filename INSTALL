@@ -1,0 +1,5 @@
+Building Newage
+
+See doc/build-*.md for instructions on building newaged,
+the intended-for-services, no-graphical-interface, reference
+implementation of Newage.
